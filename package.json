@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.21.2",
-    "expo": "^35.0.0",
+    "expo": "^48.0.0",
     "expo-file-system": "~7.0.0",
     "expo-image-picker": "~7.0.0",
     "expo-location": "~7.0.0",
